@@ -1,6 +1,6 @@
 ### Hi I'm Jordi 👋
 
-![Jordi Capellades (1)](https://user-images.githubusercontent.com/65649227/131830530-07b578c5-ccc8-4461-832d-4ec23235928a.png)
+![Jordi Capellades (2)](https://user-images.githubusercontent.com/65649227/131835269-93fcde3a-6e74-4048-a631-8084a9a70e12.png)
 
 <!--
 **jordicapedo/jordicapedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
