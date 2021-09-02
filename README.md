@@ -1,6 +1,7 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Jordi Capellades (2)](https://user-images.githubusercontent.com/65649227/131835269-93fcde3a-6e74-4048-a631-8084a9a70e12.png)
+![Jordi Capellades (5)](https://user-images.githubusercontent.com/65649227/131851550-93793f27-b3c0-4b39-a0fb-ddf91c9cf3bc.png)
+
 
 
 
