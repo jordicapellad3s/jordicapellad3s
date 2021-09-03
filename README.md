@@ -2,7 +2,41 @@
 
 ![github-readme](https://user-images.githubusercontent.com/65649227/131967191-9e54f65c-e432-4190-b300-67b6921e966e.png)
 
+```php
+<?php
 
+namespace JordiCapellades;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Fhios',
+                'position' => 'Web developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Vuejs::class,
+            Sass::class,
+            Html::class,
+            Drupal::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'Trying to be a better person';
+    }
+}
+```
 
 
 
