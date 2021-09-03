@@ -1,6 +1,14 @@
 ![github-readme](https://user-images.githubusercontent.com/65649227/131967191-9e54f65c-e432-4190-b300-67b6921e966e.png)
 
-<h2> Hi, I'm Jordi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jordi! <img src="https://media.giphy.com/media/UowWJdCjKLFF15Rmet/giphy.gif" width="50"></h2>
+
+
+
+
+
+
+
+
 
 [![Twitter: kapatiuska](https://img.shields.io/twitter/follow/kapatiuska?style=social)](https://twitter.com/kapatiuska)
 [![Linkedin: Jordi Capellades](https://img.shields.io/badge/-jordicapellades-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordicapellades/)](https://www.linkedin.com/in/kapatiuska/)
@@ -12,8 +20,8 @@
 ```javascript
 const jordi = {
   pronouns: "he" | "him",
-  nickname: "george"
-  code: [Javascript, PHP, HTML, CSS],
+  nickname: "george",
+  code: [Javascript, Php, Html, Css],
   tools: [Vue, React, Node, Laravel],  
   company: "FHIOS Smart Knowledge",
   hobbies: [Dj, Training],
