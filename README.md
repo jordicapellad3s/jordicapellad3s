@@ -1,5 +1,3 @@
-![github-readme](https://user-images.githubusercontent.com/65649227/131967191-9e54f65c-e432-4190-b300-67b6921e966e.png)
-
 <h2> Hi, I'm Jordi! <img src="https://media.giphy.com/media/UowWJdCjKLFF15Rmet/giphy.gif" width="50"></h2>
 
 
