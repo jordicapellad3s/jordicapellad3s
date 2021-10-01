@@ -17,7 +17,6 @@
 
 ```javascript
 const jordi = {
-  pronouns: "he" | "him",
   nickname: "george",
   code: [Javascript, Php, Html, Css],
   tools: [Vue, React, Node, Laravel],  
