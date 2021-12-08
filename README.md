@@ -8,7 +8,7 @@
 
 
 
-[![Twitter: kapatiuska](https://img.shields.io/twitter/follow/kapatiuska?style=social)](https://twitter.com/kapatiuska)
+
 [![Linkedin: Jordi Capellades](https://img.shields.io/badge/-jordicapellades-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordicapellades/)](https://www.linkedin.com/in/kapatiuska/)
 [![GitHub jordicapedo](https://img.shields.io/github/followers/jordicapedo?label=follow&style=social)](https://github.com/jordicapedo)
 
