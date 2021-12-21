@@ -20,8 +20,8 @@ const jordi = {
   nickname: "george",
   codes: [Javascript, Php, Html, Css],
   tools: [Vue, Node],
-  Learning: "React"
-  company: "FHIOS Smart Knowledge",
+  Learning: [React],
+  Company: "FHIOS Smart Knowledge",
   hobbies: [Calisthenics, Reading],
   fun-fact: "I'm Vegan 🌱"
 }
