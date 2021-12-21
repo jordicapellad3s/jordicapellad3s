@@ -19,7 +19,7 @@
 const jordi = {
   nickname: "george",
   code: [Javascript, Php, Html, Css],
-  tools: [Vue, React, Node, Laravel],  
+  tools: [Vue, React, Node],  
   company: "FHIOS Smart Knowledge",
   hobbies: [Dj, Training],
   fun-fact: "Vegan"
