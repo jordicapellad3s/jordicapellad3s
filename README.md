@@ -18,11 +18,12 @@
 ```javascript
 const jordi = {
   nickname: "george",
-  code: [Javascript, Php, Html, Css],
-  tools: [Vue, React, Node],  
+  codes: [Javascript, Php, Html, Css],
+  tools: [Vue, Node],
+  Learning: "React"
   company: "FHIOS Smart Knowledge",
-  hobbies: [Dj, Training],
-  fun-fact: "Vegan"
+  hobbies: [Calisthenics, Reading],
+  fun-fact: "I'm Vegan 🌱"
 }
 ```
 
