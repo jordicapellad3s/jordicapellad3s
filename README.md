@@ -21,7 +21,6 @@ const jordi = {
   codes: [Javascript, Php, Html, Css],
   tools: [Vue, Node],
   learning: [React],
-  company: "FHIOS Smart Knowledge",
   hobbies: [Calisthenics, Reading],
   fun-fact: "I'm Vegan 🌱"
 }
