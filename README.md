@@ -19,7 +19,7 @@
 const jordi = {
   nickname: "george",
   codes: [Javascript, Php, Html, Css],
-  learning: [React, Nextjs, Tailwind],
+  learning: [React, Nextjs, Tailwind, Chakra ui],
   hobbies: [Calisthenics, Reading],
   fun-fact: "I'm Vegan 🌱"
 }
