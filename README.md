@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jordi! <img src="https://media.giphy.com/media/UowWJdCjKLFF15Rmet/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jordi!</h2>
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-[![Linkedin: Jordi Capellades](https://img.shields.io/badge/-jordicapellades-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordicapellades/)](https://www.linkedin.com/in/kapatiuska/)
+[![Linkedin: Jordi Capellades](https://img.shields.io/badge/-jordicapellades-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordicapellades/)](https://www.linkedin.com/in/jordicapelladesedo/)
 [![GitHub jordicapedo](https://img.shields.io/github/followers/jordicapedo?label=follow&style=social)](https://github.com/jordicapedo)
 
 
