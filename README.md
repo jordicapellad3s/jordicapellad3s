@@ -1,8 +1,4 @@
-<h2> Hi, I'm Jordi!</h2>
-
-
-[![GitHub jordicapedo](https://img.shields.io/github/followers/jordicapedo?label=follow&style=social)](https://github.com/jordicapedo)
-
+# Hi, I'm Jordi!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -10,9 +6,9 @@
 const jordi = {
   nickname: "george",
   codes: [Javascript, Php, Html, Css],
-  learning: [React, Nextjs, Laravel, Tailwind, Chakra-ui],
+  learning: [React, Nextjs, Laravel, Tailwind, Chakra Ui],
   hobbies: [Calisthenics, Reading],
-  fun-fact: "I'm Vegan"
+  fun-fact: [I Am Vegan]
 }
 ```
 
