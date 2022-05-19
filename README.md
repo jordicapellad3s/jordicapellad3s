@@ -1,16 +1,21 @@
 # Hi, I'm Jordi!
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🚀 About Me
 
 ```javascript
 const jordi = {
   nickname: "george",
-  codes: [Javascript, Php, Html, Css],
-  learning: [React, Nextjs, Laravel, Tailwind, Chakra Ui],
+  skills: [Javascript, Php, Html, Css],
+  learning: [React, Nextjs, Laravel, Tailwind],
   hobbies: [Calisthenics, Reading],
   fun-fact: [I Am Vegan]
 }
 ```
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jordicapellades.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordicapelladesedo)
+[![instagram](https://img.shields.io/badge/instagram-F90E73?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jordicapedo)
 
 
 
