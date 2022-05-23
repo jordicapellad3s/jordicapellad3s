@@ -8,7 +8,7 @@ const jordi = {
   skills: [Javascript, Php, Html, Css],
   learning: [React, Nextjs, Laravel, Tailwind],
   hobbies: [Calisthenics, Reading],
-  fun-fact: [I Am Vegan]
+  fun-fact: "I Am Vegan"
 }
 ```
 
