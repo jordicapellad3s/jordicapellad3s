@@ -7,8 +7,7 @@ const jordi = {
   nickname: "george",
   skills: [Javascript, Php, Html, Css],
   learning: [React, Nextjs, Node, Tailwind],
-  hobbies: [Calisthenics, Reading],
-  vegan: true
+  hobbies: [Calisthenics, Reading]
 }
 ```
 
