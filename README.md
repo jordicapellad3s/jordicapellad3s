@@ -5,8 +5,8 @@
 ```javascript
 const jordi = {
   nickname: "george",
-  skills: [Javascript, Php, Html, Css],
-  learning: [React, Nextjs, Node, Tailwind],
+  skills: [Javascript, Html, Css],
+  learning: [React, Node, Tailwind, Laravel],
   hobbies: [Calisthenics, Reading]
 }
 ```
