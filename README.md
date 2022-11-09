@@ -6,8 +6,8 @@
 const jordi = {
   nickname: "george",
   skills: [Javascript, Html, Css],
-  learning: [React, Node, Tailwind, Laravel],
-  hobbies: [Calisthenics, Reading]
+  learning: [React, Node, Tailwind, Laravel, Next],
+  hobbies: [Calisthenics, Read books]
 }
 ```
 
