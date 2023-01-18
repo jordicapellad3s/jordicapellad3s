@@ -1,7 +1,3 @@
-# Hi, I'm Jordi!
-
-## 🚀 About Me
-
 ```javascript
 const jordi = {
   nickname: "george",
