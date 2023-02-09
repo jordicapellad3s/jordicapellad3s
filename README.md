@@ -1,9 +1,8 @@
 ```javascript
-const jordi = {
-  nickname: "george",
+const jordi = {  
   skills: [Javascript, Html, Css],
   learning: [React, Node, Tailwind, Laravel, Next],
-  hobbies: [Calisthenics, Read books]
+  hobbies: [Calisthenics, Read, Music]
 }
 ```
 
